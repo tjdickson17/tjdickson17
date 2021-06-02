@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tjdickson17
-- 👀 I’m interested in creating programs/ projects with Java, Python, and HTML/CSS
+- 👀 I’m interested in creating Freelance programs/ projects with Java, Python, and HTML/CSS
 - 🌱 I’m currently learning Java, Python, and HTML/CSS
 - 💞️ I’m looking to collaborate on anytype of project or program,... let's build!
 - 📫 How to reach me at my email: tjdickson17@gmail.com
